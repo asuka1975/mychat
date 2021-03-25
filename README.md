@@ -5,3 +5,19 @@
 ## Purpose
 
   The aim of this project is to learn websocket programming in Golang through making chatting application.
+  
+## DEMO
+
+## Features
+
+## Requirement
+
+## Installation
+
+## Usage
+
+## Note
+
+## Author
+
+## License
